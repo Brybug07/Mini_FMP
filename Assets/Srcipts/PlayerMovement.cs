@@ -17,7 +17,7 @@ public class PlayerMovement : MonoBehaviour
         float moveVertical = Input.GetAxis("Vertical");
 
         // Create a new movement vector
-        //Vector2 movement = new Vector2(moveHorizontal, moveVertical);
+        Vector2 movement = new Vector2(moveHorizontal, moveVertical);
 
         // Normalize the movement vector to maintain consistent speed
         rb.velocity = movement.normalized * moveSpeed;
