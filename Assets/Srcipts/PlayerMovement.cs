@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
-    public float moveSpeed = 5f; // Speed of the player movement
+    public float moveSpeed = 2f; // Speed of the player movement
     private Rigidbody2D rb; // Reference to the Rigidbody2D component
 
     private void Start()
@@ -17,7 +17,7 @@ public class PlayerMovement : MonoBehaviour
         float moveVertical = Input.GetAxis("Vertical");
 
         // Create a new movement vector
-        Vector2 movement = new Vector2(moveHorizontal, moveVertical);
+        //Vector2 movement = new Vector2(moveHorizontal, moveVertical);
 
         // Normalize the movement vector to maintain consistent speed
         rb.velocity = movement.normalized * moveSpeed;
