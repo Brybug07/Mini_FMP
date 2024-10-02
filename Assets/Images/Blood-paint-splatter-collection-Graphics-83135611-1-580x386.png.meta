@@ -1,0 +1,4167 @@
+fileFormatVersion: 2
+guid: 73bfdcbf4e0e8c3488efbde43e8ebacc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4584168225920200392
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_0
+  - first:
+      213: 109226364255663933
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_1
+  - first:
+      213: -2925166203103714531
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_2
+  - first:
+      213: -8059543540398498722
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_3
+  - first:
+      213: 4390912331967425085
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_4
+  - first:
+      213: -3219464308862535053
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_5
+  - first:
+      213: 3358460411512444469
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_6
+  - first:
+      213: -2354820065734276491
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_7
+  - first:
+      213: -6451781826745171813
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_8
+  - first:
+      213: -1543288664487243815
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_9
+  - first:
+      213: 8858235472044081191
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_10
+  - first:
+      213: -5365275036252246559
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_11
+  - first:
+      213: 6193342518456341397
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_12
+  - first:
+      213: -5949452036337601424
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_13
+  - first:
+      213: -7568045803759827768
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_14
+  - first:
+      213: 3252323926730850963
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_15
+  - first:
+      213: 1940942502981537265
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_16
+  - first:
+      213: -7204919140672908162
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_17
+  - first:
+      213: -5007444442389200071
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_18
+  - first:
+      213: -3074828611949059307
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_19
+  - first:
+      213: -8197371308301254777
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_20
+  - first:
+      213: -5226360702023912573
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_21
+  - first:
+      213: -7015195644538759340
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_22
+  - first:
+      213: 8796486566197131168
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_23
+  - first:
+      213: 8294722687400339251
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_24
+  - first:
+      213: -1838958458367558637
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_25
+  - first:
+      213: -959401813974087800
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_26
+  - first:
+      213: -5979037600128975609
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_27
+  - first:
+      213: -744090061145418387
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_28
+  - first:
+      213: -2354782985559706123
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_29
+  - first:
+      213: -4537053750528318963
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_30
+  - first:
+      213: -6226961251476412800
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_31
+  - first:
+      213: 6871196853796119337
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_32
+  - first:
+      213: -6863868785470844610
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_33
+  - first:
+      213: 1778562062541382537
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_34
+  - first:
+      213: 1776806916514070851
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_35
+  - first:
+      213: 1964014160740452857
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_36
+  - first:
+      213: 238224270308419846
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_37
+  - first:
+      213: -4765158038737698345
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_38
+  - first:
+      213: 6222994696181038712
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_39
+  - first:
+      213: 3275674747975780175
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_40
+  - first:
+      213: -3619341614097804931
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_41
+  - first:
+      213: -1338406701289684492
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_42
+  - first:
+      213: 452515586758932773
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_43
+  - first:
+      213: 4960144689721809932
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_44
+  - first:
+      213: 8791798038856042987
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_45
+  - first:
+      213: 6281717595228224085
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_46
+  - first:
+      213: -7717523701190643440
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_47
+  - first:
+      213: 2395481717668216758
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_48
+  - first:
+      213: 9036076046494057781
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_49
+  - first:
+      213: 5380734151045588058
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_50
+  - first:
+      213: -8426102530048210897
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_51
+  - first:
+      213: -1674810855362431118
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_52
+  - first:
+      213: 2408782192269161523
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_53
+  - first:
+      213: -3797289451823393405
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_54
+  - first:
+      213: -7924191436854847024
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_55
+  - first:
+      213: -244106166175216992
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_56
+  - first:
+      213: -7722573749589357748
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_57
+  - first:
+      213: 6597569923734572660
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_58
+  - first:
+      213: -3433419645485941356
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_59
+  - first:
+      213: -4632875978595434669
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_60
+  - first:
+      213: 4263123573313083034
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_61
+  - first:
+      213: 4484871588084558794
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_62
+  - first:
+      213: -1648509566498486039
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_63
+  - first:
+      213: -7091444610362608888
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_64
+  - first:
+      213: -5058161745978256687
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_65
+  - first:
+      213: 4126630648567604914
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_66
+  - first:
+      213: -2292594909362863480
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_67
+  - first:
+      213: -2277196146223458
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_68
+  - first:
+      213: 738476188347341263
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_69
+  - first:
+      213: 2017296668363729099
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_70
+  - first:
+      213: 8682658679272832609
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_71
+  - first:
+      213: -1176651450208683294
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_72
+  - first:
+      213: 2564166721764992855
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_73
+  - first:
+      213: -7207548462829268885
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_74
+  - first:
+      213: -6355887866004457841
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_75
+  - first:
+      213: 7242554329558834852
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_76
+  - first:
+      213: 4216921313339495620
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_77
+  - first:
+      213: 7098886449966894600
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_78
+  - first:
+      213: 5555028765272429106
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_79
+  - first:
+      213: -1984801537407565971
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_80
+  - first:
+      213: 2503601455529039963
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_81
+  - first:
+      213: 4548342037558165425
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_82
+  - first:
+      213: 6334300518235201927
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_83
+  - first:
+      213: -388039294408331279
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_84
+  - first:
+      213: -4693592020368338305
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_85
+  - first:
+      213: -4537796570424832225
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_86
+  - first:
+      213: -7951637103015208411
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_87
+  - first:
+      213: 8706867818677111833
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_88
+  - first:
+      213: 1492093527140694703
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_89
+  - first:
+      213: 8072662031520329402
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_90
+  - first:
+      213: 5257793460445724735
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_91
+  - first:
+      213: -7181971532655880100
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_92
+  - first:
+      213: 5770587694859069949
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_93
+  - first:
+      213: 5527275060367560053
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_94
+  - first:
+      213: 4430178848514533357
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_95
+  - first:
+      213: -7717175730118491670
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_96
+  - first:
+      213: 2542053221444902157
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_97
+  - first:
+      213: 4995387954328032500
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_98
+  - first:
+      213: 8086268237020606533
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_99
+  - first:
+      213: 5967540508379224980
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_100
+  - first:
+      213: 4746896440383798758
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_101
+  - first:
+      213: 4452456027175807734
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_102
+  - first:
+      213: -7921907145638873932
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_103
+  - first:
+      213: -2836975280010251938
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_104
+  - first:
+      213: 2836949622400138717
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_105
+  - first:
+      213: 1318250376956271950
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_106
+  - first:
+      213: -8475889160521385075
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_107
+  - first:
+      213: -8233630019601269859
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_108
+  - first:
+      213: -237983956833688046
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_109
+  - first:
+      213: 3116643946720330799
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_110
+  - first:
+      213: 2133402745207907523
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_111
+  - first:
+      213: 768161688503735505
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_112
+  - first:
+      213: 2996501325028928827
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_113
+  - first:
+      213: 4312337854153796863
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_114
+  - first:
+      213: -6886654949689134698
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_115
+  - first:
+      213: 7797007010658884830
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_116
+  - first:
+      213: -2642173172351562119
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_117
+  - first:
+      213: -127520075508638682
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_118
+  - first:
+      213: 6288193654561124518
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_119
+  - first:
+      213: 3635262409853873616
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_120
+  - first:
+      213: 2064179883855436998
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_121
+  - first:
+      213: 2401901331325178901
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_122
+  - first:
+      213: -6047891366298517441
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_123
+  - first:
+      213: 4879433531517827439
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_124
+  - first:
+      213: 4730793536575452480
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_125
+  - first:
+      213: -63074421074074326
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_126
+  - first:
+      213: -5202688358761890782
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_127
+  - first:
+      213: -3762889405028006622
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_128
+  - first:
+      213: -1936199153620753298
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_129
+  - first:
+      213: 3143789252974943187
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_130
+  - first:
+      213: -4857420083471126030
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_131
+  - first:
+      213: 3991744372739564828
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_132
+  - first:
+      213: 8967752448261389887
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_133
+  - first:
+      213: 8913622807829541955
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_134
+  - first:
+      213: -963241544341849389
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_135
+  - first:
+      213: 9138888562735055422
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_136
+  - first:
+      213: 1583476224164012442
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_137
+  - first:
+      213: 7124540228858873286
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_138
+  - first:
+      213: 1780968559802616608
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_139
+  - first:
+      213: -3779839499986485783
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_140
+  - first:
+      213: 1969779256479196746
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_141
+  - first:
+      213: -2558676858311524751
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_142
+  - first:
+      213: -2545652235608266328
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_143
+  - first:
+      213: 8579551690386028364
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_144
+  - first:
+      213: -7454712990919419993
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_145
+  - first:
+      213: 8302278993803847452
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_146
+  - first:
+      213: 5563744452603075542
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_147
+  - first:
+      213: -8966534216748000675
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_148
+  - first:
+      213: 2864998082931552708
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_149
+  - first:
+      213: 2018718195772919204
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_150
+  - first:
+      213: -7206942493642679272
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_151
+  - first:
+      213: 4929247786366150760
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_152
+  - first:
+      213: 6121903310783173443
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_153
+  - first:
+      213: 3766629098282267806
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_154
+  - first:
+      213: -7067002408924586426
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_155
+  - first:
+      213: 5245385887109580899
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_156
+  - first:
+      213: -5802118406619614740
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_157
+  - first:
+      213: 2427710857394110712
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_158
+  - first:
+      213: -2275433876836352078
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_159
+  - first:
+      213: 5622107108801328596
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_160
+  - first:
+      213: 1899654880742145195
+    second: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_161
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_0
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 275
+        width: 94
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ce2b98a6bc3e9f30800000000000000
+      internalID: 4584168225920200392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_1
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 331
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d37f091bccc048100800000000000000
+      internalID: 109226364255663933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_2
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 288
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13660326d8b767d0800000000000000
+      internalID: -2925166203103714531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 302
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5cd0cee9dfb62090800000000000000
+      internalID: -8059543540398498722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 313
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3aecca7087afec30800000000000000
+      internalID: 4390912331967425085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_5
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 314
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a333fb44a2253d0800000000000000
+      internalID: -3219464308862535053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_6
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 282
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536596c43f5ab9e20800000000000000
+      internalID: 3358460411512444469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_7
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 191
+        width: 156
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a42f760aff15fd0800000000000000
+      internalID: -2354820065734276491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 293
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9088809c9aa676a0800000000000000
+      internalID: -6451781826745171813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_9
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 283
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfc957e223259ae0800000000000000
+      internalID: -1543288664487243815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 180
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720c3f79a36ceea70800000000000000
+      internalID: 8858235472044081191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_11
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 289
+        width: 39
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ede9ede7c6ba85b0800000000000000
+      internalID: -5365275036252246559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_12
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 290
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593d9e0f43c23f550800000000000000
+      internalID: 6193342518456341397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_13
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 284
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0747fddf4ec4f6da0800000000000000
+      internalID: -5949452036337601424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_14
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 254
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4820f4076e8f690800000000000000
+      internalID: -7568045803759827768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_15
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 266
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392cb4b3163922d20800000000000000
+      internalID: 3252323926730850963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 267
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fd0ca34cec9fea10800000000000000
+      internalID: 1940942502981537265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 282
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7457c0073cf20c90800000000000000
+      internalID: -7204919140672908162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_18
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 277
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93343ea6fcbf18ab0800000000000000
+      internalID: -5007444442389200071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_19
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 281
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513a1972ba30455d0800000000000000
+      internalID: -3074828611949059307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_20
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 168
+        width: 91
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f79b40a361d3e80800000000000000
+      internalID: -8197371308301254777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_21
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 273
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383bdc7c1ac3877b0800000000000000
+      internalID: -5226360702023912573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_22
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 267
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4575669bab405ae90800000000000000
+      internalID: -7015195644538759340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_23
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 266
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7fca91de5631a70800000000000000
+      internalID: 8796486566197131168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_24
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 254
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337eedc3656cc1370800000000000000
+      internalID: 8294722687400339251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_25
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 275
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c3d4c7605ba76e0800000000000000
+      internalID: -1838958458367558637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_26
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 262
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887853122258fa2f0800000000000000
+      internalID: -959401813974087800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_27
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 248
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70dbb912bf0360da0800000000000000
+      internalID: -5979037600128975609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_28
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 264
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65578028067ca5f0800000000000000
+      internalID: -744090061145418387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_29
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 262
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f5749ec951225fd0800000000000000
+      internalID: -2354782985559706123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_30
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 265
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02e7e8f6a52901c0800000000000000
+      internalID: -4537053750528318963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_31
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 259
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08660afcbb36599a0800000000000000
+      internalID: -6226961251476412800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_32
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 257
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923ac4422256b5f50800000000000000
+      internalID: 6871196853796119337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 256
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e315e19b4b3aeb0a0800000000000000
+      internalID: -6863868785470844610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 244
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983e3ccc5c8bea810800000000000000
+      internalID: 1778562062541382537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_35
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 248
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34147450a7c78a810800000000000000
+      internalID: 1776806916514070851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_36
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 240
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f985c03974914b10800000000000000
+      internalID: 1964014160740452857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_37
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 240
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6092c9036b75e4300800000000000000
+      internalID: 238224270308419846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_38
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 255
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1417ab202ceddb0800000000000000
+      internalID: -4765158038737698345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_39
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 188
+        width: 22
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87eb20194b48c5650800000000000000
+      internalID: 6222994696181038712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_40
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 247
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4740d8f3d8857d20800000000000000
+      internalID: 3275674747975780175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_41
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 254
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7159e26af385cdc0800000000000000
+      internalID: -3619341614097804931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_42
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 242
+        width: 27
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f140a442360d6de0800000000000000
+      internalID: -1338406701289684492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_43
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 251
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529f7145788a74600800000000000000
+      internalID: 452515586758932773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 242
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c9869b059f5d440800000000000000
+      internalID: 4960144689721809932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_45
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 240
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be98df24cbdb20a70800000000000000
+      internalID: 8791798038856042987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_46
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 238
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a36e2fed42d2750800000000000000
+      internalID: 6281717595228224085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_47
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 245
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011bfdc3519d5e490800000000000000
+      internalID: -7717523701190643440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_48
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 235
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf7e8f2ee57e3120800000000000000
+      internalID: 2395481717668216758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_49
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 238
+        width: 18
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 535c1b20a47966d70800000000000000
+      internalID: 9036076046494057781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_50
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 246
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54a2e7b3353caa40800000000000000
+      internalID: 5380734151045588058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_51
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 220
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28c47f6468701b80800000000000000
+      internalID: -8426102530048210897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_52
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 229
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277772c8660e1c8e0800000000000000
+      internalID: -1674810855362431118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_53
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 235
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3347d7f34a6bd6120800000000000000
+      internalID: 2408782192269161523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_54
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 233
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3859abacc515d4bc0800000000000000
+      internalID: -3797289451823393405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_55
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 215
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d913125fdd970290800000000000000
+      internalID: -7924191436854847024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_56
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 237
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aac4a53cb2cc9cf0800000000000000
+      internalID: -244106166175216992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_57
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 228
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b48f73718e3d490800000000000000
+      internalID: -7722573749589357748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_58
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 214
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e0005e3e64f8b50800000000000000
+      internalID: 6597569923734572660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_59
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 230
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49d76f1060b0a50d0800000000000000
+      internalID: -3433419645485941356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_60
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 200
+        width: 21
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ff06fe7d7b4bfb0800000000000000
+      internalID: -4632875978595434669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_61
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 224
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a969bec8d48a92b30800000000000000
+      internalID: 4263123573313083034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_62
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 220
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acba50f82f67d3e30800000000000000
+      internalID: 4484871588084558794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_63
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 230
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8460098415f19e0800000000000000
+      internalID: -1648509566498486039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_64
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 209
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8037afee2b0269d90800000000000000
+      internalID: -7091444610362608888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_65
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 207
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d21f7af0bccdc9b0800000000000000
+      internalID: -5058161745978256687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_66
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 206
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6ac1706bcb44930800000000000000
+      internalID: 4126630648567604914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_67
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 211
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882ce8d93111f20e0800000000000000
+      internalID: -2292594909362863480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_68
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 204
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e96de94f6e8e7fff0800000000000000
+      internalID: -2277196146223458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_69
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 209
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc917814e289f3a00800000000000000
+      internalID: 738476188347341263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_70
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 214
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8266cb1a0eefb10800000000000000
+      internalID: 2017296668363729099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_71
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 213
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ef40ce0100f7870800000000000000
+      internalID: 8682658679272832609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_72
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 205
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eafcdd7db1bbafe0800000000000000
+      internalID: -1176651450208683294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_73
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 211
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7572ea34c00c59320800000000000000
+      internalID: 2564166721764992855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_74
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 211
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6016ab3cd4a9fb90800000000000000
+      internalID: -7207548462829268885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_75
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 207
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86b69a29a95bc7a0800000000000000
+      internalID: -6355887866004457841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_76
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 211
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae52df3ac8b28460800000000000000
+      internalID: 7242554329558834852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_77
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 203
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4df5f9793858a30800000000000000
+      internalID: 4216921313339495620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_78
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 212
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80e4c1f5d9f448260800000000000000
+      internalID: 7098886449966894600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_79
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 209
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232d32fea3d671d40800000000000000
+      internalID: 5555028765272429106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_80
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 207
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f3c2584819474e0800000000000000
+      internalID: -1984801537407565971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_81
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 209
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5895f752449eb220800000000000000
+      internalID: 2503601455529039963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_82
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 201
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf71a92cf4fe1f30800000000000000
+      internalID: 4548342037558165425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_83
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 207
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7816bf1c2c4f7e750800000000000000
+      internalID: 6334300518235201927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_84
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 203
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffe5e151586d9af0800000000000000
+      internalID: -388039294408331279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_85
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 201
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f725659dce20ddeb0800000000000000
+      internalID: -4693592020368338305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_86
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 201
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f87dcbf028601c0800000000000000
+      internalID: -4537796570424832225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_87
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 185
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a56f33f2c16a190800000000000000
+      internalID: -7951637103015208411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_88
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 202
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c878e662205d870800000000000000
+      internalID: 8706867818677111833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_89
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 192
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa71e0582bf4b410800000000000000
+      internalID: 1492093527140694703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_90
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 206
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe6d8cc85bd70070800000000000000
+      internalID: 8072662031520329402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_91
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 188
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f304d389b4f67f840800000000000000
+      internalID: 5257793460445724735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_92
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 204
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c58141951f2845c90800000000000000
+      internalID: -7181971532655880100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_93
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 182
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9a0514fee351050800000000000000
+      internalID: 5770587694859069949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_94
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 194
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d8515f163d4bc40800000000000000
+      internalID: 5527275060367560053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_95
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 188
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7682dc0382b7d30800000000000000
+      internalID: 4430178848514533357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_96
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 186
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae185019f8517e490800000000000000
+      internalID: -7717175730118491670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_97
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 189
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d5c50cfef274320800000000000000
+      internalID: 2542053221444902157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_98
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 192
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4dcf4b0ee235540800000000000000
+      internalID: 4995387954328032500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_99
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 108
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54033226e12383070800000000000000
+      internalID: 8086268237020606533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_100
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 191
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b92b89976f0d250800000000000000
+      internalID: 5967540508379224980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_101
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 111
+        width: 56
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed74a2992d50e140800000000000000
+      internalID: 4746896440383798758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_102
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa6cd5aa2d4acd30800000000000000
+      internalID: 4452456027175807734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_103
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 85
+        width: 153
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4f0905c6bbf0290800000000000000
+      internalID: -7921907145638873932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_104
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 174
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e51bc66830a01a8d0800000000000000
+      internalID: -2836975280010251938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_105
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 180
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddb6d896aede5720800000000000000
+      internalID: 2836949622400138717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_106
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 185
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4dd083cbbd5b4210800000000000000
+      internalID: 1318250376956271950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_107
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 175
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8bf98737b79f5a80800000000000000
+      internalID: -8475889160521385075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_108
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 180
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b7cadee154cbd80800000000000000
+      internalID: -8233630019601269859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_109
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 183
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 216afa62ad282bcf0800000000000000
+      internalID: -237983956833688046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_110
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 34
+        width: 182
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2403a7282b804b20800000000000000
+      internalID: 3116643946720330799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_111
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 177
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c4e5f65e7e5b9d10800000000000000
+      internalID: 2133402745207907523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_112
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 170
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d4545d5cfe09aa00800000000000000
+      internalID: 768161688503735505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_113
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 132
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d26573416b59920800000000000000
+      internalID: 2996501325028928827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_114
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 143
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffcae4c3e6088db30800000000000000
+      internalID: 4312337854153796863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_115
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 163
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691f7117fcfad60a0800000000000000
+      internalID: -6886654949689134698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_116
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 167
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edc9d8dd098843c60800000000000000
+      internalID: 7797007010658884830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_117
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 149
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e0be2af7d155bd0800000000000000
+      internalID: -2642173172351562119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_118
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 150
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c939dba25fa3ef0800000000000000
+      internalID: -127520075508638682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_119
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 156
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a03bf200d6244750800000000000000
+      internalID: 6288193654561124518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_120
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 144
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddabacb6eb037230800000000000000
+      internalID: 3635262409853873616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_121
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 140
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccd5b9faa075ac10800000000000000
+      internalID: 2064179883855436998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_122
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 146
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514dc27f884455120800000000000000
+      internalID: 2401901331325178901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_123
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 146
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3000af68d2911ca0800000000000000
+      internalID: -6047891366298517441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_124
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 126
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69ff3fc1fa37b340800000000000000
+      internalID: 4879433531517827439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_125
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 138
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0453b4d18a727a140800000000000000
+      internalID: 4730793536575452480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_126
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 129
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a256771f52aef1ff0800000000000000
+      internalID: -63074421074074326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_127
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 122
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22cffe2b0865cc7b0800000000000000
+      internalID: -5202688358761890782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_128
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 130
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2258934d50887cbc0800000000000000
+      internalID: -3762889405028006622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_129
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 122
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64e502d02d3125e0800000000000000
+      internalID: -1936199153620753298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_130
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 118
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3db13484babf0ab20800000000000000
+      internalID: 3143789252974943187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_131
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 129
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1fad77b2af69cb0800000000000000
+      internalID: -4857420083471126030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_132
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 122
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c156e4b9b56856730800000000000000
+      internalID: 3991744372739564828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_133
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 121
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e7248a65bd37c70800000000000000
+      internalID: 8967752448261389887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 116
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 344ff72a7bc83bb70800000000000000
+      internalID: 8913622807829541955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_135
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 98
+        width: 10
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dafa9c3be0e1a2f0800000000000000
+      internalID: -963241544341849389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_136
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3204b75abad3de70800000000000000
+      internalID: 9138888562735055422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_137
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 109
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a91a29b7c33a9f510800000000000000
+      internalID: 1583476224164012442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_138
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 94
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c50d1937937fd260800000000000000
+      internalID: 7124540228858873286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_139
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 100
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b8c2b187547b810800000000000000
+      internalID: 1780968559802616608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_140
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 101
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9edb05f40005b8bc0800000000000000
+      internalID: -3779839499986485783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_141
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 102
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4620642ccf065b10800000000000000
+      internalID: 1969779256479196746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_142
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 107
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e345d24f0cd7cd0800000000000000
+      internalID: -2558676858311524751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_143
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 112
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9e3e677c60cacd0800000000000000
+      internalID: -2545652235608266328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_144
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 107
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c47bf855ec0b01770800000000000000
+      internalID: 8579551690386028364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_145
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 102
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a712c1180a8b8890800000000000000
+      internalID: -7454712990919419993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_146
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 91
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c17addbe1ce973370800000000000000
+      internalID: 8302278993803847452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_147
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 94
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbd4760a14663d40800000000000000
+      internalID: 5563744452603075542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_148
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 89
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5a9958f2a8709380800000000000000
+      internalID: -8966534216748000675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_149
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 99
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c17f47b39482c720800000000000000
+      internalID: 2864998082931552708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_150
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 90
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ad89a0e08de30c10800000000000000
+      internalID: 2018718195772919204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_151
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 96
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c92cd6cfbcbfb90800000000000000
+      internalID: -7206942493642679272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_152
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 89
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8682c34deb4386440800000000000000
+      internalID: 4929247786366150760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_153
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 95
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343d48c30ae55f450800000000000000
+      internalID: 6121903310783173443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_154
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 95
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94b3cb5531c54430800000000000000
+      internalID: 3766629098282267806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_155
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 83
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e583d60c6fced90800000000000000
+      internalID: -7067002408924586426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_156
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 83
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368830f4caa5bc840800000000000000
+      internalID: 5245385887109580899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_157
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 85
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1bea4dc0cba7fa0800000000000000
+      internalID: -5802118406619614740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_158
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 74
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0c5588926f0b120800000000000000
+      internalID: 2427710857394110712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_159
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 77
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bf774dd1f80c60e0800000000000000
+      internalID: -2275433876836352078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_160
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 71
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d53d45d0acb50e40800000000000000
+      internalID: 5622107108801328596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood-paint-splatter-collection-Graphics-83135611-1-580x386_161
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 65
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacf87a9c0eec5a10800000000000000
+      internalID: 1899654880742145195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
