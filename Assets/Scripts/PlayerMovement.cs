@@ -20,6 +20,6 @@ public class PlayerMovement : MonoBehaviour
         Vector2 movement = new Vector2(moveHorizontal, moveVertical);
 
         // Normalize the movement vector to maintain consistent speed
-        rb.velocity = movement.normalized * moveSpeed;
+        rb.linearVelocity = movement.normalized * moveSpeed;
     }
 }
