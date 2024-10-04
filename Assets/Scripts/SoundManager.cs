@@ -7,12 +7,15 @@ public class SoundManager : MonoBehaviour
 {
     [SerializeField] Slider volumeSlider;
 
+    //PlayerPrefs Playerprefs;
+
     // Start is called before the first frame update
     void Start()
     {
-        if (!Playerprefs.HasKey("musicVolume"))
+        if (!PlayerPrefs.HasKey("musicVolume"))
         {
-            Playerprefs.SetFloat("musicVolume", 1);
+            PlayerPrefs.SetFloat("musicVolume", 0);
+
             Load();
         }
 
@@ -30,11 +33,11 @@ public class SoundManager : MonoBehaviour
 
     private void Load()
     {
-        volumeSlider.value = Playerprefs.GetFloat("musicVolume");
+        volumeSlider.value = PlayerPrefs.GetFloat("musicVolume");
     }
 
     private void Save()
     {
-        Playerprefs.SetFloat("musicVolume", volumeSlider.value);
+        PlayerPrefs.SetFloat("musicVolume", volumeSlider.value);
     }
 }

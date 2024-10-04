@@ -192,6 +192,32 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -934,7 +960,40 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Blood_0: 5684327315910396547
+      Blood_1: -1189345562256101844
+      Blood_10: 5335947261288081930
+      Blood_11: -420561362150945321
+      Blood_12: -7858715718292287355
+      Blood_13: -1034289341275851498
+      Blood_14: 5052171841915474803
+      Blood_15: 746896397948701829
+      Blood_16: -7567482132543009634
+      Blood_17: -6743018210936478119
+      Blood_18: -3883518051959684106
+      Blood_19: 6553323263654280841
+      Blood_2: 5722333315871558701
+      Blood_20: -6577351968973786745
+      Blood_21: -897078715031351629
+      Blood_22: -4572818326935346543
+      Blood_23: 8041310347366581422
+      Blood_24: -6555394148765354152
+      Blood_25: 4201216384262297053
+      Blood_26: -1076412981617156026
+      Blood_27: 1013293048883887740
+      Blood_28: -656188230328449305
+      Blood_29: 3860720148897288421
+      Blood_3: 3909595645733894167
+      Blood_30: 889770481953779268
+      Blood_31: 4327907867643408495
+      Blood_32: -5470664636874853462
+      Blood_4: -374699494892873770
+      Blood_5: 5281811327271454313
+      Blood_6: -2044344349260785571
+      Blood_7: 1295801174852132906
+      Blood_8: 1921429812043486609
+      Blood_9: 1383461657061368076
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
