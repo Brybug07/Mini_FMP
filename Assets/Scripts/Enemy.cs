@@ -30,7 +30,7 @@ public class Enemy : MonoBehaviour
     }
 
 
-    private void fixedUpdate()
+    private void FixedUpdate()
     {
         if (target)
         { 
